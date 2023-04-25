@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{FF00BA0D-D685-46CF-ABA0-E6D8EA7FACC6}|Default">
-  <MonoDevelop.Ide.ItemProperties.publicaccessmodifier FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.publicaccessmodifier PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="publicaccessmodifier/Program.cs">
+    <Files>
+      <File FileName="publicaccessmodifier/Program.cs" Line="34" Column="45" />
+      <File FileName="publicaccessmodifier/newnamespace/Student.cs" Line="6" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="publicaccessmodifier" expanded="True">
+            <Node name="publicaccessmodifier" expanded="True">
+              <Node name="newnamespace" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

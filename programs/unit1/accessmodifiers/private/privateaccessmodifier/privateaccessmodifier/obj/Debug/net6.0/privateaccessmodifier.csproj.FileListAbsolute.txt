@@ -1,0 +1,5 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/private/privateaccessmodifier/privateaccessmodifier/obj/Debug/net6.0/privateaccessmodifier.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/private/privateaccessmodifier/privateaccessmodifier/obj/Debug/net6.0/privateaccessmodifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/private/privateaccessmodifier/privateaccessmodifier/obj/Debug/net6.0/privateaccessmodifier.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/private/privateaccessmodifier/privateaccessmodifier/obj/Debug/net6.0/privateaccessmodifier.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/private/privateaccessmodifier/privateaccessmodifier/obj/Debug/net6.0/privateaccessmodifier.csproj.CoreCompileInputs.cache
