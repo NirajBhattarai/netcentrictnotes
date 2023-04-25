@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{248A4824-75B4-4800-9593-B4BD70EC1263}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="namespaceexample/Program.cs">
+    <Files>
+      <File FileName="namespaceexample/Program.cs" Line="20" Column="2" />
+      <File FileName="namespaceexample/model/Student.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="namespaceexample" expanded="True">
+            <Node name="namespaceexample" expanded="True">
+              <Node name="model" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.namespaceexample FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.namespaceexample PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

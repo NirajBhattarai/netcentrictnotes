@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/bin/Debug/net6.0/publicaccessmodifier
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/bin/Debug/net6.0/publicaccessmodifier.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/bin/Debug/net6.0/publicaccessmodifier.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/bin/Debug/net6.0/publicaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/bin/Debug/net6.0/publicaccessmodifier.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/publicaccessmodifier.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/publicaccessmodifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/publicaccessmodifier.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/publicaccessmodifier.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/publicaccessmodifier.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/publicaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/refint/publicaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/publicaccessmodifier.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/publicaccessmodifier.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/public/publicaccessmodifier/publicaccessmodifier/obj/Debug/net6.0/ref/publicaccessmodifier.dll
