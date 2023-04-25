@@ -35,3 +35,19 @@ public string Name
     set { _name = value; }
 }
 ```
+
+# C# provides two types of properties: 
+         
+## Read/Write Properties: 
+                            
+     These properties have both a get and set accessor, which allows the 
+     property to be read and written. The get accessor returns the current value of the property, 
+     while the set accessor assigns a new value to the property.
+
+
+## Read-Only Properties: 
+                                            
+    These properties have only a get accessor, which allows the property
+    to be read, but not written. The get accessor returns the current value of the property, but 
+    there is no set accessor to assign a new value.
+
