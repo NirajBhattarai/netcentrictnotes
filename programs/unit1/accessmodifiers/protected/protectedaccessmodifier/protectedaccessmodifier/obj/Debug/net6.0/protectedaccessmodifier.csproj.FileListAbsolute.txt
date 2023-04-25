@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/protectedaccessmodifier.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/protectedaccessmodifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/protectedaccessmodifier.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/protectedaccessmodifier.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/protectedaccessmodifier.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/bin/Debug/net6.0/protectedaccessmodifier
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/bin/Debug/net6.0/protectedaccessmodifier.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/bin/Debug/net6.0/protectedaccessmodifier.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/bin/Debug/net6.0/protectedaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/bin/Debug/net6.0/protectedaccessmodifier.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/protectedaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/refint/protectedaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/protectedaccessmodifier.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/protectedaccessmodifier.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/protected/protectedaccessmodifier/protectedaccessmodifier/obj/Debug/net6.0/ref/protectedaccessmodifier.dll
