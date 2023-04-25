@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{AAF1AB0D-9124-48F3-B19F-F08A8F71D671}|Default">
-  <MonoDevelop.Ide.ItemProperties.protectedaccessmodifier FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="protectedaccessmodifier/Program.cs">
+    <Files>
+      <File FileName="protectedaccessmodifier/Program.cs" Line="25" Column="67" />
+      <File FileName="protectedaccessmodifier/model/Person.cs" Line="6" Column="36" />
+      <File FileName="protectedaccessmodifier/model/Student.cs" Line="18" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="protectedaccessmodifier" expanded="True">
+            <Node name="protectedaccessmodifier" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.protectedaccessmodifier PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

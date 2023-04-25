@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "internalaccessmodifier", "internalaccessmodifier\internalaccessmodifier.csproj", "{411B04F8-9538-4841-A789-28CCFBDD30FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalDemo", "InternalDemo\InternalDemo.csproj", "{1D4E8652-F7AB-496D-B60F-37CCD74F1CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411B04F8-9538-4841-A789-28CCFBDD30FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411B04F8-9538-4841-A789-28CCFBDD30FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411B04F8-9538-4841-A789-28CCFBDD30FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411B04F8-9538-4841-A789-28CCFBDD30FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4E8652-F7AB-496D-B60F-37CCD74F1CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4E8652-F7AB-496D-B60F-37CCD74F1CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4E8652-F7AB-496D-B60F-37CCD74F1CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4E8652-F7AB-496D-B60F-37CCD74F1CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC726367-8D26-41B8-88D1-D7F9F4D6828B}
+	EndGlobalSection
+EndGlobal

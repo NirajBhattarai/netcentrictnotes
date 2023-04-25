@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/bin/Debug/net6.0/internalaccessmodifier
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/bin/Debug/net6.0/internalaccessmodifier.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/bin/Debug/net6.0/internalaccessmodifier.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/bin/Debug/net6.0/internalaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/bin/Debug/net6.0/internalaccessmodifier.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/internalaccessmodifier.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/internalaccessmodifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/internalaccessmodifier.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/internalaccessmodifier.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/internalaccessmodifier.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/internalaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/refint/internalaccessmodifier.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/internalaccessmodifier.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/internalaccessmodifier.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/accessmodifiers/internal/internalaccessmodifier/internalaccessmodifier/obj/Debug/net6.0/ref/internalaccessmodifier.dll
