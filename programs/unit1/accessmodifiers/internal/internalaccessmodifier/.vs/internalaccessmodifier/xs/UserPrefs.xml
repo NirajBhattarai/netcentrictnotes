@@ -1,5 +1,35 @@
 ﻿<Properties StartupConfiguration="{411B04F8-9538-4841-A789-28CCFBDD30FB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="internalaccessmodifier/Program.cs">
+    <Files>
+      <File FileName="internalaccessmodifier/Program.cs" Line="43" Column="27" />
+      <File FileName="internalaccessmodifier/Assembly1/Assembly1.cs" Line="13" Column="27" />
+      <File FileName="internalaccessmodifier/Assembly2/Program.cs" Line="2" Column="15" />
+      <File FileName="InternalDemo/Class1.cs" Line="6" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="internalaccessmodifier" expanded="True">
+            <Node name="internalaccessmodifier" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="InternalDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.InternalDemo FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.internalaccessmodifier PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

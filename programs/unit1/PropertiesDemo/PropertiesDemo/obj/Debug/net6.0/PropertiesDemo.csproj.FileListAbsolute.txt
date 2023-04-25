@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/bin/Debug/net6.0/PropertiesDemo
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/bin/Debug/net6.0/PropertiesDemo.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/bin/Debug/net6.0/PropertiesDemo.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/bin/Debug/net6.0/PropertiesDemo.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/bin/Debug/net6.0/PropertiesDemo.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/PropertiesDemo.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/PropertiesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/PropertiesDemo.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/PropertiesDemo.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/PropertiesDemo.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/PropertiesDemo.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/refint/PropertiesDemo.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/PropertiesDemo.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/PropertiesDemo.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/PropertiesDemo/PropertiesDemo/obj/Debug/net6.0/ref/PropertiesDemo.dll
