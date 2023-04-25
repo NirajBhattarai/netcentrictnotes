@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/bin/Debug/net6.0/ArrayExample
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/bin/Debug/net6.0/ArrayExample.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/bin/Debug/net6.0/ArrayExample.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/bin/Debug/net6.0/ArrayExample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/bin/Debug/net6.0/ArrayExample.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ArrayExample.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ArrayExample.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ArrayExample.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ArrayExample.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ArrayExample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/refint/ArrayExample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ArrayExample.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ArrayExample.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/ArrayExample/ArrayExample/obj/Debug/net6.0/ref/ArrayExample.dll
