@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/bin/Debug/net6.0/namespaceexample
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/bin/Debug/net6.0/namespaceexample.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/bin/Debug/net6.0/namespaceexample.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/bin/Debug/net6.0/namespaceexample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/bin/Debug/net6.0/namespaceexample.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/namespaceexample.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/namespaceexample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/namespaceexample.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/namespaceexample.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/namespaceexample.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/namespaceexample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/refint/namespaceexample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/namespaceexample.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/namespaceexample.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/namespace/namespaceexample/namespaceexample/obj/Debug/net6.0/ref/namespaceexample.dll
