@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{FEDAC9C0-515D-4CB7-88D6-6BFA04557639}|Default">
-  <MonoDevelop.Ide.ItemProperties.ArrayExample FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ArrayExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayExample/Program.cs">
+    <Files>
+      <File FileName="ArrayExample/Program.cs" Line="95" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrayExample" expanded="True">
+            <Node name="ArrayExample" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
