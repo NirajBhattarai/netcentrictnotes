@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/bin/Debug/net6.0/StringExample
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/bin/Debug/net6.0/StringExample.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/bin/Debug/net6.0/StringExample.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/bin/Debug/net6.0/StringExample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/bin/Debug/net6.0/StringExample.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/StringExample.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/StringExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/StringExample.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/StringExample.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/StringExample.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/StringExample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/refint/StringExample.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/StringExample.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/StringExample.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/StringExample/StringExample/obj/Debug/net6.0/ref/StringExample.dll
