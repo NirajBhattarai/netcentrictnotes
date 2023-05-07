@@ -7,7 +7,7 @@ class FileIOExample
     static void Main()
     {
         string inputFilePath = "input.txt";
-        string outputFilePath = "output.txt";
+        string outputFilePath = "output1.txt";
 
         try
         {
