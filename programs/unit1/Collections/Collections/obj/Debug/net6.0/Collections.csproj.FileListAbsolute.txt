@@ -1,0 +1,15 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/bin/Debug/net6.0/Collections
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/bin/Debug/net6.0/Collections.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/bin/Debug/net6.0/Collections.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/bin/Debug/net6.0/Collections.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/bin/Debug/net6.0/Collections.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/Collections.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/Collections.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/Collections.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/Collections.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/Collections.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/refint/Collections.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/Collections.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/Collections.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit1/Collections/Collections/obj/Debug/net6.0/ref/Collections.dll
