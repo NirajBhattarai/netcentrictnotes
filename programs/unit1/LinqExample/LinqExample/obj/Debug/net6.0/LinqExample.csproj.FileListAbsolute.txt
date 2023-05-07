@@ -1,0 +1,15 @@
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/bin/Debug/net6.0/LinqExample
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/bin/Debug/net6.0/LinqExample.deps.json
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/bin/Debug/net6.0/LinqExample.runtimeconfig.json
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/bin/Debug/net6.0/LinqExample.dll
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/bin/Debug/net6.0/LinqExample.pdb
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/LinqExample.csproj.AssemblyReference.cache
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/LinqExample.AssemblyInfoInputs.cache
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/LinqExample.AssemblyInfo.cs
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/LinqExample.csproj.CoreCompileInputs.cache
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/LinqExample.dll
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/refint/LinqExample.dll
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/LinqExample.pdb
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/LinqExample.genruntimeconfig.cache
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/LinqExample/LinqExample/obj/Debug/net6.0/ref/LinqExample.dll
