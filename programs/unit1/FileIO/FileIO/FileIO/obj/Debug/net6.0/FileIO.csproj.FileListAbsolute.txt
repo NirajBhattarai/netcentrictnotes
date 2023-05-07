@@ -1,0 +1,15 @@
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/FileIO.csproj.AssemblyReference.cache
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/FileIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/FileIO.AssemblyInfoInputs.cache
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/FileIO.AssemblyInfo.cs
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/FileIO.csproj.CoreCompileInputs.cache
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/bin/Debug/net6.0/FileIO
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/bin/Debug/net6.0/FileIO.deps.json
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/bin/Debug/net6.0/FileIO.runtimeconfig.json
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/bin/Debug/net6.0/FileIO.dll
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/bin/Debug/net6.0/FileIO.pdb
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/FileIO.dll
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/refint/FileIO.dll
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/FileIO.pdb
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/FileIO.genruntimeconfig.cache
+/Users/niraj/Projects/netcentrictnotes/programs/unit1/FileIO/FileIO/FileIO/obj/Debug/net6.0/ref/FileIO.dll
