@@ -1,21 +1,28 @@
 ﻿<Properties StartupConfiguration="{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Views/Pie/List.cshtml">
     <Files>
-      <File FileName="BethanysPieShop/appsettings.json" Line="4" Column="5" />
+      <File FileName="BethanysPieShop/appsettings.json" />
       <File FileName="BethanysPieShop/Program.cs" Line="6" Column="61" />
-      <File FileName="BethanysPieShop/Models/BethanysPieShopDbContext.cs" Line="34" Column="2" />
-      <File FileName="BethanysPieShop/Models/CategoryRepository.cs" Line="3" Column="18" />
-      <File FileName="BethanysPieShop/Models/DbInitalizer.cs" Line="67" Column="2" />
-      <File FileName="BethanysPieShop/Models/PieRepository.cs" Line="40" Column="2" />
+      <File FileName="BethanysPieShop/Models/BethanysPieShopDbContext.cs" />
+      <File FileName="BethanysPieShop/Models/CategoryRepository.cs" />
+      <File FileName="BethanysPieShop/Models/DbInitalizer.cs" />
+      <File FileName="BethanysPieShop/Models/PieRepository.cs" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" Line="18" Column="36" />
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" Line="32" Column="7" />
+      <File FileName="BethanysPieShop/Views/Pie/Details.cshtml" Line="17" Column="1" />
+      <File FileName="BethanysPieShop/Views/_ViewImports.cshtml" Line="3" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BethanysPieShop" expanded="True">
             <Node name="BethanysPieShop" expanded="True">
-              <Node name="Models" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Pie" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
