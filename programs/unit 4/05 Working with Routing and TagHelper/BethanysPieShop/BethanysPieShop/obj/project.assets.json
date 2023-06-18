@@ -1080,11 +1080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
+      "projectUniqueName": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/05 Working with Routing and TagHelper/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
+      "projectPath": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/05 Working with Routing and TagHelper/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
       "packagesPath": "/Users/niraj/.nuget/packages/",
-      "outputPath": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/",
+      "outputPath": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/05 Working with Routing and TagHelper/BethanysPieShop/BethanysPieShop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/niraj/.nuget/NuGet/NuGet.Config"
