@@ -199,6 +199,42 @@ https://localhost:7147/Pie/Details/1
 
 ![Convention Based Project](./images/details.png)
 
+It would be difficult for user to come on website by directly writing endpoint We can use tag helper on `List` route and dynamically come to `pie detail page`
+
+Use of Controller Tag Helper
+
+`List.cshtml`
+
+```
+.....
+
+<h2 class="text-start">
+                            <a asp-controller="Pie"
+                               asp-action="Details"
+                               asp-route-id="@pie.PieId"
+                               class="pie-link">@pie.Name</a>
+                        </h2>
+
+                        .......
+
+```
+Different Tag Helper Used her 
+
+`asp-controller`: This is a Tag Helper attribute, which is used to specify the controller in an MVC application that should handle this request. The controller's name is specified without the "Controller" part of the class name.
+
+`asp-action`: This is another Tag Helper attribute. It specifies the action method on the controller that should be invoked when this link is clicked.
+
+`asp-route-id`: This Tag Helper attribute is used to pass route data to the controller action. The value passed here (in this case, @pie.PieId) will be used by the routing system to match parameters in the route template.
+
+When rendered to HTML, it might look something like this:
+
+```
+<a href="/Pie/Details/1" class="pie-link">Apple Pie</a>
+
+```
+
+
+
 
 
 
