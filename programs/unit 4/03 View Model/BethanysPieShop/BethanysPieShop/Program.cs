@@ -10,8 +10,8 @@ builder.Services.AddDbContext<BethanysPieShopDbContext>(options => {
         builder.Configuration["ConnectionStrings:BethanysPieShopDbContextConnection"]);
 });
 
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-builder.Services.AddScoped<IPieRepository, PieRepository>();
+builder.Services.AddScoped<ICategoryRepository, MockCategoryRepository>();
+builder.Services.AddScoped<IPieRepository, MockPieRepository>();
 
 var app = builder.Build();
 

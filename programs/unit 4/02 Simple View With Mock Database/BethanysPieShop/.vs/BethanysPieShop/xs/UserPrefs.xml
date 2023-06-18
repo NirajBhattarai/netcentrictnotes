@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{3973AC98-6AED-4F10-A526-7E8D56D50335}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Views/Pie/List.cshtml">
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/appsettings.json">
     <Files>
-      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" Line="10" Column="47" />
-      <File FileName="BethanysPieShop/Controllers/PieController.cs" Line="22" Column="44" />
-      <File FileName="BethanysPieShop/Models/IPieRepository.cs" Line="5" Column="26" />
-      <File FileName="BethanysPieShop/Models/MockPieRepository.cs" Line="29" Column="10" />
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" Line="15" Column="8" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" />
+      <File FileName="BethanysPieShop/Models/IPieRepository.cs" />
+      <File FileName="BethanysPieShop/Models/MockPieRepository.cs" />
+      <File FileName="BethanysPieShop/appsettings.json" Line="11" Column="22" />
+      <File FileName="BethanysPieShop/Program.cs" Line="10" Column="1" />
+      <File FileName="BethanysPieShop/Migrations/20230618013354_IntialCreate.cs" Line="28" Column="41" />
+      <File FileName="BethanysPieShop/Migrations/BethanysPieShopDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Models/DbInitalizer.cs" Line="3" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BethanysPieShop" expanded="True">
             <Node name="BethanysPieShop" expanded="True">
-              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Pie" expanded="True">
-                  <Node name="List.cshtml" expanded="True" selected="True" />
-                </Node>
-              </Node>
             </Node>
           </Node>
         </State>
