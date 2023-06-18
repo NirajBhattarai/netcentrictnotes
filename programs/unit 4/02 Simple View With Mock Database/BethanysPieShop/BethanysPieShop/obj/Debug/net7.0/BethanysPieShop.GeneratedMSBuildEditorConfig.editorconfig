@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BethanysPieShop
 build_property.RootNamespace = BethanysPieShop
-build_property.ProjectDir = /Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/
+build_property.ProjectDir = /Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop
+build_property.MSBuildProjectDirectory = /Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml]
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/Views/Home/Privacy.cshtml]
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml]
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGllL0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/Views/Shared/Error.cshtml]
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml]
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml]
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml]
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c493g6tnxf

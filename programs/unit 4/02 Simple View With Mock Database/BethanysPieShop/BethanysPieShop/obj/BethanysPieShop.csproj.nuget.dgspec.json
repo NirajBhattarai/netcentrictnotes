@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj": {}
+    "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj": {}
   },
   "projects": {
-    "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj": {
+    "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
+        "projectUniqueName": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
+        "projectPath": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
         "packagesPath": "/Users/niraj/.nuget/packages/",
-        "outputPath": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02/BethanysPieShop/BethanysPieShop/obj/",
+        "outputPath": "/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/02 Simple View With Mock Database/BethanysPieShop/BethanysPieShop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/niraj/.nuget/NuGet/NuGet.Config"
@@ -39,9 +39,19 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
             }
           },
           "imports": [

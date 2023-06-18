@@ -1,20 +1,38 @@
-﻿<Properties StartupConfiguration="{3973AC98-6AED-4F10-A526-7E8D56D50335}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BethanysPieShop FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Controllers/HelloController.cs">
+    <Files>
+      <File FileName="BethanysPieShop/appsettings.json" />
+      <File FileName="BethanysPieShop/Program.cs" />
+      <File FileName="BethanysPieShop/Models/BethanysPieShopDbContext.cs" />
+      <File FileName="BethanysPieShop/Models/DbInitializer.cs" />
+      <File FileName="BethanysPieShop/Models/IPieRepository.cs" />
+      <File FileName="BethanysPieShop/Models/PieRepository.cs" />
+      <File FileName="BethanysPieShop/Models/CategoryRepository.cs" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" />
+      <File FileName="BethanysPieShop/Controllers/HelloController.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BethanysPieShop" expanded="True">
-            <Node name="BethanysPieShop" expanded="True" selected="True" />
+            <Node name="BethanysPieShop" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

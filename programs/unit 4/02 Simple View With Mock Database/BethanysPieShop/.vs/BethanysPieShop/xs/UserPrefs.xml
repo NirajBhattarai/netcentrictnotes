@@ -1,4 +1,34 @@
 ﻿<Properties StartupConfiguration="{3973AC98-6AED-4F10-A526-7E8D56D50335}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BethanysPieShop FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Views/Pie/List.cshtml">
+    <Files>
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" Line="10" Column="47" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" Line="22" Column="44" />
+      <File FileName="BethanysPieShop/Models/IPieRepository.cs" Line="5" Column="26" />
+      <File FileName="BethanysPieShop/Models/MockPieRepository.cs" Line="29" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BethanysPieShop" expanded="True">
+            <Node name="BethanysPieShop" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Pie" expanded="True">
+                  <Node name="List.cshtml" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
