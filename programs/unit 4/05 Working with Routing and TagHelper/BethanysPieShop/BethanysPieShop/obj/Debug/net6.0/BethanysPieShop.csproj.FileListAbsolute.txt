@@ -1,0 +1,83 @@
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/appsettings.Development.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/appsettings.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/libman.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.staticwebassets.runtime.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.RazorAssemblyInfo.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.RazorAssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets/msbuild.BethanysPieShop.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets/msbuild.build.BethanysPieShop.props
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BethanysPieShop.props
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BethanysPieShop.props
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets.build.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets.development.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/scopedcss/bundle/BethanysPieShop.styles.css
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/refint/BethanysPieShop.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/03 View Model/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/ref/BethanysPieShop.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/appsettings.Development.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/appsettings.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/libman.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.staticwebassets.runtime.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.deps.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.runtimeconfig.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/BethanysPieShop.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Humanizer.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Npgsql.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/System.CodeDom.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/System.Text.Json.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.csproj.AssemblyReference.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.AssemblyInfoInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.AssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.csproj.CoreCompileInputs.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.RazorAssemblyInfo.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.RazorAssemblyInfo.cs
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets/msbuild.BethanysPieShop.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets/msbuild.build.BethanysPieShop.props
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BethanysPieShop.props
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BethanysPieShop.props
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets.build.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/staticwebassets.development.json
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/scopedcss/bundle/BethanysPieShop.styles.css
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.csproj.CopyComplete
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/refint/BethanysPieShop.dll
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.pdb
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/BethanysPieShop.genruntimeconfig.cache
+/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/obj/Debug/net6.0/ref/BethanysPieShop.dll
