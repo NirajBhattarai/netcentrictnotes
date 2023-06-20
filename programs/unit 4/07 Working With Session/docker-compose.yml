@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: BethanysPieShop8854
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: YourStrong@Passw0rd
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+volumes:
+  db_data:

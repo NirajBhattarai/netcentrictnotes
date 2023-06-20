@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Views/Pie/Details.cshtml">
+    <Files>
+      <File FileName="BethanysPieShop/appsettings.json" />
+      <File FileName="BethanysPieShop/Program.cs" Line="13" Column="43" />
+      <File FileName="BethanysPieShop/Models/BethanysPieShopDbContext.cs" Line="15" Column="71" />
+      <File FileName="BethanysPieShop/Models/CategoryRepository.cs" />
+      <File FileName="BethanysPieShop/Models/DbInitalizer.cs" />
+      <File FileName="BethanysPieShop/Models/PieRepository.cs" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" />
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" />
+      <File FileName="BethanysPieShop/Views/Pie/Details.cshtml" Line="18" Column="26" />
+      <File FileName="BethanysPieShop/Views/_ViewImports.cshtml" />
+      <File FileName="BethanysPieShop/Controllers/HomeController.cs" />
+      <File FileName="BethanysPieShop/Models/Pie.cs" />
+      <File FileName="BethanysPieShop/Models/MockCategoryRepository.cs" />
+      <File FileName="BethanysPieShop/Models/MockPieRepository.cs" />
+      <File FileName="BethanysPieShop/Migrations/20230618055108_InitialCreate.cs" Line="32" Column="1" />
+      <File FileName="BethanysPieShop/Controllers/ShoppingCartController.cs" Line="10" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BethanysPieShop" expanded="True">
+            <Node name="BethanysPieShop" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Pie" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGllL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/niraj/Desktop/netcentrictnotes/programs/unit 4/04 Working With Database/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGllL0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
