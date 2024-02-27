@@ -53,6 +53,27 @@ docker compose up -d
 
 3. Create a new DbContext class (or modify an existing one). This class will define your database schema:
 
+### DbContext Definition
+- Inherits from EF Core's `DbContext`.
+- Utilizes `DbContextOptions<BethanysPieShopDbContext>` to receive configuration options.
+
+### DbSet Properties
+- `DbSet<Category>`: Represents the `Categories` table in the database.
+- `DbSet<Pie>`: Represents the `Pies` table in the database.
+
+### Model Configuration in OnModelCreating Method
+- Iterates over all entity types, specifically targeting string properties.
+- Sets the column type of all string properties to `text` (can be adjusted to `varchar` as needed) to ensure consistency and optimize database interactions.
+
+### Purpose and Benefits
+- Ensures consistency across all string columns in the database schema.
+- Facilitates database schema maintenance and application scalability.
+- Aligns the .NET data model with the underlying database, enhancing data management and access efficiency.
+
+## Usage in Application
+This DbContext is central to the application's data layer, interfacing with the database for CRUD operations on `Categories` and `Pies`. It must be configured in the application's startup class and can then be injected into repositories or services that require data access.
+
+
 ```
 using Microsoft.EntityFrameworkCore;
 
