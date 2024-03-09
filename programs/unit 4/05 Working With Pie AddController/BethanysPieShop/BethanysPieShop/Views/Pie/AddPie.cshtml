@@ -1,0 +1,66 @@
+﻿
+@model AddPieViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Use the layout page for consistent styling.
+    ViewBag.Title = "Add New Pie";
+}
+
+<h2 class="my-4">@ViewBag.Title</h2>
+
+@using (Html.BeginForm("AddPie", "Pie", FormMethod.Post, new { @class = "needs-validation", enctype = "multipart/form-data", novalidate = "novalidate" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group mb-3">
+        @Html.LabelFor(model => model.Name, new { @class = "form-label" })
+        @Html.TextBoxFor(model => model.Name, new { @class = "form-control", placeholder = "Name" })
+        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group mb-3">
+        @Html.LabelFor(model => model.Price, new { @class = "form-label" })
+        @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control", placeholder = "Price" } })
+        @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group mb-3">
+        @Html.LabelFor(model => model.ShortDescription, new { @class = "form-label" })
+        @Html.EditorFor(model => model.ShortDescription, new { @class = "form-control", placeholder = "Short Description" })
+    </div>
+
+    <div class="form-group mb-3">
+        @Html.LabelFor(model => model.LongDescription, new { @class = "form-label" })
+        @Html.EditorFor(model => model.LongDescription, new { @class = "form-control", placeholder = "Long Description" })
+    </div>
+
+    <div class="form-group mb-3">
+        @Html.LabelFor(model => model.InStock, new { @class = "form-check-label" })
+        <div class="checkbox">
+            @Html.CheckBoxFor(model => model.InStock, new { @class = "form-check-input" })
+        </div>
+    </div>
+
+    <div class="form-group mb-3">
+        @Html.LabelFor(model => model.IsPieOfTheWeek, new { @class = "form-check-label" })
+        <div class="checkbox">
+            @Html.CheckBoxFor(model => model.IsPieOfTheWeek, new { @class = "form-check-input" })
+        </div>
+    </div>
+
+    <div class="form-group mb-3">
+        @Html.LabelFor(model => model.ImageUrl, new { @class = "form-label" })
+        @Html.EditorFor(model => model.ImageUrl, new { @class = "form-control", placeholder = "Image URL" })
+    </div>
+
+    <div class="form-group mb-3">
+        @Html.LabelFor(model => model.ImageThumbnailUrl, new { @class = "form-label" })
+        @Html.EditorFor(model => model.ImageThumbnailUrl, new { @class = "form-control", placeholder = "Image Thumbnail URL" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Pie</button>
+}
+
+<div class="mt-3">
+    @Html.ActionLink("Back to List", "List", null, new { @class = "btn btn-secondary" })
+</div>

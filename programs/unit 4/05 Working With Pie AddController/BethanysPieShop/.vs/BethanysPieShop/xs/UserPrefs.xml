@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Models/DbInitalizer.cs">
+    <Files>
+      <File FileName="BethanysPieShop/appsettings.json" />
+      <File FileName="BethanysPieShop/Program.cs" />
+      <File FileName="BethanysPieShop/Models/BethanysPieShopDbContext.cs" />
+      <File FileName="BethanysPieShop/Models/CategoryRepository.cs" />
+      <File FileName="BethanysPieShop/Models/DbInitalizer.cs" Line="15" Column="14" />
+      <File FileName="BethanysPieShop/Models/PieRepository.cs" />
+      <File FileName="BethanysPieShop/Views/_ViewImports.cshtml" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" />
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" />
+      <File FileName="BethanysPieShop/Views/_ViewStart.cshtml" />
+      <File FileName="BethanysPieShop/Views/Shared/_Layout.cshtml" />
+      <File FileName="BethanysPieShop/Models/IPieRepository.cs" />
+      <File FileName="BethanysPieShop/Views/Pie/Details.cshtml" />
+      <File FileName="BethanysPieShop/Models/Category.cs" />
+      <File FileName="BethanysPieShop/Migrations/BethanysPieShopDbContextModelSnapshot.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BethanysPieShop" expanded="True">
+            <Node name="BethanysPieShop">
+              <Node name="Models" expanded="True">
+                <Node name="DbInitalizer.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Pie" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
