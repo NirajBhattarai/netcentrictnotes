@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/ViewModels/HomeViewModel.cs">
+    <Files>
+      <File FileName="BethanysPieShop/appsettings.json" />
+      <File FileName="BethanysPieShop/Program.cs" Line="53" Column="1" />
+      <File FileName="BethanysPieShop/Models/BethanysPieShopDbContext.cs" Line="17" Column="71" />
+      <File FileName="BethanysPieShop/Models/CategoryRepository.cs" />
+      <File FileName="BethanysPieShop/Models/DbInitalizer.cs" />
+      <File FileName="BethanysPieShop/Models/PieRepository.cs" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" />
+      <File FileName="BethanysPieShop/Views/Pie/Details.cshtml" Line="17" Column="41" />
+      <File FileName="BethanysPieShop/Views/_ViewImports.cshtml" />
+      <File FileName="BethanysPieShop/Controllers/HomeController.cs" Line="9" Column="45" />
+      <File FileName="BethanysPieShop/Models/Pie.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Models/MockCategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Models/MockPieRepository.cs" />
+      <File FileName="BethanysPieShop/Controllers/ShoppingCartController.cs" />
+      <File FileName="BethanysPieShop/Models/ApplicationUser.cs" Line="11" Column="1" />
+      <File FileName="BethanysPieShop/Controllers/AccountController.cs" Line="84" Column="1" />
+      <File FileName="BethanysPieShop/ViewModels/HomeViewModel.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/ViewModels/PieListViewModel.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/ViewModels/ShoppingCartViewModel.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Views/Account/Register.cshtml" Line="18" Column="11" />
+      <File FileName="BethanysPieShop/ViewModels/RegisterViewModel.cs" Line="8" Column="6" />
+      <File FileName="BethanysPieShop/ViewModels/LoginViewModel.cs" Line="10" Column="23" />
+      <File FileName="BethanysPieShop/Views/Account/Login.cshtml" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BethanysPieShop" expanded="True">
+            <Node name="BethanysPieShop">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels">
+                <Node name="HomeViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/niraj/Desktop/college/netcentrictnotes/programs/unit 4/07 Working With Session copy/BethanysPieShop/BethanysPieShop/Controllers/AccountController.cs" relfile="BethanysPieShop/Controllers/AccountController.cs" line="72" column="1" />
+      <Breakpoint file="/Users/niraj/Desktop/college/netcentrictnotes/programs/unit 4/07 Working With Session copy/BethanysPieShop/BethanysPieShop/Controllers/AccountController.cs" relfile="BethanysPieShop/Controllers/AccountController.cs" line="73" column="1" />
+      <Breakpoint file="/Users/niraj/Desktop/college/netcentrictnotes/programs/unit 4/07 Working With Session copy/BethanysPieShop/BethanysPieShop/Controllers/AccountController.cs" relfile="BethanysPieShop/Controllers/AccountController.cs" line="75" column="1" />
+      <Breakpoint file="/Users/niraj/Desktop/college/netcentrictnotes/programs/unit 4/07 Working With Session copy/BethanysPieShop/BethanysPieShop/Controllers/AccountController.cs" relfile="BethanysPieShop/Controllers/AccountController.cs" line="83" column="1" />
+      <Breakpoint file="/Users/niraj/Desktop/college/netcentrictnotes/programs/unit 4/07 Working With Session copy/BethanysPieShop/BethanysPieShop/Controllers/AccountController.cs" relfile="BethanysPieShop/Controllers/AccountController.cs" line="84" column="1" />
+      <Breakpoint file="/Users/niraj/Desktop/college/netcentrictnotes/programs/unit 4/07 Working With Session copy/BethanysPieShop/BethanysPieShop/Controllers/AccountController.cs" relfile="BethanysPieShop/Controllers/AccountController.cs" line="76" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
